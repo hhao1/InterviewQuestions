@@ -1,5 +1,5 @@
 //Design an algorithm to find the maximum profit. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times).
-//只要后面比前面大的都行。
+//只要后面比前面大的都行。这是最简单的方法，stack可解，用python解了一遍。
 // Input: [7,1,5,3,6,4]
 // Output: 7
 // Explanation: Buy on day 2 (price = 1) and sell on day 3 (price = 5), profit = 5-1 = 4.
